@@ -2,3 +2,5 @@
 *.DS_Store
 *.egg-info
 *.pyc
+langchain-venv
+.venv
